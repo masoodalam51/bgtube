@@ -8,6 +8,9 @@ Author URI: http://bloggyaani.com/
 Version: 1.2
 */
 
+//Disallow direct access
+defined( 'ABSPATH' ) or die( 'No Access' );
+
 add_action( 'wp_enqueue_scripts', 'bgtube_script' );
 function bgtube_script() {
 wp_register_script('bgtubejs', plugins_url( 'js/bgtube.js', __FILE__ ), '', '1.2', false );
