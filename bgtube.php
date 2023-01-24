@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: BGTube
-Plugin URI: http://bloggyaani.com/speed-up-wordpress-site/
+Plugin URI: https://bloggyaani.com/speed-up-wordpress-site/
 Description: Embed YouTube Video Lightly. Use [bgtube v="youtubevideoid"]
 Author: Shaikh Masood Alam
-Author URI: http://bloggyaani.com/
+Author URI: https://bloggyaani.com/
 Version: 1.2
 */
 
